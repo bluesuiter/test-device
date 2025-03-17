@@ -1,0 +1,23 @@
+{
+  "name": "device",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluesuiter/test-device.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluesuiter/test-device/issues"
+  },
+  "homepage": "https://github.com/bluesuiter/test-device#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "express": "^4.21.2"
+  }
+}
